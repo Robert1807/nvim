@@ -3,6 +3,7 @@ return {
   event = 'VeryLazy',
   dependencies = {
     "nvim-lua/plenary.nvim",
+    "kyazdani42/nvim-web-devicons",
     "nvim-telescope/telescope-file-browser.nvim",
     {
       'nvim-telescope/telescope-fzf-native.nvim',
